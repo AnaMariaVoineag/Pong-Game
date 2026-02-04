@@ -10,11 +10,11 @@ This is a 2-player competitive game built using the **Unity & C#**. The project 
 ---
 
 ## ✨ Features
-* -> Play against a friend on the same keyboard.
-* -> The game tracks score points for both players.
-* -> Includes a Main Menu with "Play" and "Exit" functionality.
-* -> Distinct red and blue themes for each player to avoid confusion.
-* -> Precise ball bouncing and paddle collisions.
+*  Play against a friend on the same keyboard.
+*  The game tracks score points for both players.
+*  Includes a Main Menu with "Play" and "Exit" functionality.
+*  Distinct red and blue themes for each player to avoid confusion.
+*  Precise ball bouncing and paddle collisions.
 
 ---
 
