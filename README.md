@@ -10,17 +10,15 @@ This is a 2-player competitive game built using the **Unity & C#**. The project 
 ---
 
 ## ✨ Features
-* **Local Multiplayer:** Play against a friend on the same keyboard.
-* **Score Tracking:** The game tracks score points for both players.
-* **Clean Navigation:** Includes a Main Menu with "Play" and "Exit" functionality.
-* **Visual Feedback:** Distinct red and blue themes for each player to avoid confusion.
-* **Physics-Based Gameplay:** Precise ball bouncing and paddle collisions.
+* -> Play against a friend on the same keyboard.
+* -> The game tracks score points for both players.
+* -> Includes a Main Menu with "Play" and "Exit" functionality.
+* -> Distinct red and blue themes for each player to avoid confusion.
+* -> Precise ball bouncing and paddle collisions.
 
 ---
 
 ## 🎮 Controls
-The game is designed for two players sharing one keyboard:
-
 * **Player 1 (Red Paddle 🟥):**
     * `W` to move up
     * `S` to move down
@@ -36,7 +34,7 @@ The game is designed for two players sharing one keyboard:
 
 ---
 
-### 📸 Screenshots
+### 📸 Photos
 
 | Main Menu | Gameplay |
 | :---: | :---: |
