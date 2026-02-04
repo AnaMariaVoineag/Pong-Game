@@ -21,9 +21,11 @@ This is a 2-player competitive game built using the **Unity & C#**. The project 
 ## 🎮 Controls
 The game is designed for two players sharing one keyboard:
 
-* **Player 1 (Red Paddle 🟥):** * `W` to move up
+* **Player 1 (Red Paddle 🟥):**
+    * `W` to move up
     * `S` to move down
-* **Player 2 (Blue Paddle 🟦):** * `↑` (Up Arrow) to move up
+* **Player 2 (Blue Paddle 🟦):**
+    * `↑` (Up Arrow) to move up
     * `↓` (Down Arrow) to move down
 
 ---
