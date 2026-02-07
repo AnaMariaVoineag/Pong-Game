@@ -9,7 +9,7 @@ This project was developed as part of a course within the **CoderDojo** project 
 | <img src="https://github.com/user-attachments/assets/9cb9e650-e053-43e0-8f23-561fb052e949" width="450"> | <img src="https://github.com/user-attachments/assets/6ecdff35-9d90-414d-ab72-ed4059f776a8" width="450"> |
 
 ### 📝 Game Description
-This is a 2-player competitive game built using the **Unity & C#**. The project focuses on learning C# scripting, collision physics, and UI management. It has been exported through a WebGL build, making it accessible to play the game in a web browser.
+This is a 2-player competitive game built using **Unity & C#**. The project focuses on learning C# scripting, collision physics, and UI management. It has been exported through a WebGL build, making it accessible to play the game in a web browser.
 
 ---
 
